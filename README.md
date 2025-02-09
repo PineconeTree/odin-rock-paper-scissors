@@ -4,8 +4,6 @@ This code is implemented based on the [Odin Project](https://www.theodinproject.
 
 ## How to Play
 
-The game is played entirely in the console
-
 1. The game will prompt you to choose Rock, Paper, or Scissors.
 2. The computer will randomly select its move.
 3. The winner will be determined based on the rules:
